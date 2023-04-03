@@ -18,9 +18,9 @@ To install the application, follow these steps:
 ## Running the application
 To run the application, use the following command:
 
-```ruby
-Copy code
-`rails server`
+// ruby
+// Copy code
+// rails server
 This will start the application on port 3000 by default. You can access the application by navigating to `http://localhost:3000` in your web browser.
 
 ## Usage
